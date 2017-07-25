@@ -1,0 +1,14 @@
+header,
+footer {
+    margin: 50px;
+    color: lightblue;
+    background-color: #008B8B;
+    clear: left;
+    text-align: center;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #008B8B;
+    border-color: #008B8B;
+}
